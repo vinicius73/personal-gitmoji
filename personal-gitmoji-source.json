@@ -1,0 +1,11 @@
+{
+  "gitmojis": [
+    {
+      "emoji":"🐳",
+      "entity":"&#x1f433;",
+      "code":":whale:",
+      "description":"Work about Containers/Docker",
+      "name":"whale"
+    }
+  ]
+}
